@@ -1,0 +1,14 @@
+{
+  "name": "bmi_project",
+  "version": "1.0.0",
+  "description": "Backend Project to calculate BMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Rishabh Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.1.0"
+  }
+}
